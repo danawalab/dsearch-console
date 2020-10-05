@@ -17,8 +17,8 @@
     "static/js/7.a705c635.chunk.js": "/dsearch-console/static/js/7.a705c635.chunk.js",
     "static/js/7.a705c635.chunk.js.map": "/dsearch-console/static/js/7.a705c635.chunk.js.map",
     "main.css": "/dsearch-console/static/css/main.68d695bd.chunk.css",
-    "main.js": "/dsearch-console/static/js/main.cf38cc56.chunk.js",
-    "main.js.map": "/dsearch-console/static/js/main.cf38cc56.chunk.js.map",
+    "main.js": "/dsearch-console/static/js/main.275e731a.chunk.js",
+    "main.js.map": "/dsearch-console/static/js/main.275e731a.chunk.js.map",
     "runtime-main.js": "/dsearch-console/static/js/runtime-main.ac596135.js",
     "runtime-main.js.map": "/dsearch-console/static/js/runtime-main.ac596135.js.map",
     "static/js/10.91ca38d8.chunk.js": "/dsearch-console/static/js/10.91ca38d8.chunk.js",
@@ -167,7 +167,7 @@
     "static/js/81.0987792e.chunk.js": "/dsearch-console/static/js/81.0987792e.chunk.js",
     "static/js/81.0987792e.chunk.js.map": "/dsearch-console/static/js/81.0987792e.chunk.js.map",
     "index.html": "/dsearch-console/index.html",
-    "precache-manifest.e7d30c2ce13d16a8ab7cf59abe8f68fc.js": "/dsearch-console/precache-manifest.e7d30c2ce13d16a8ab7cf59abe8f68fc.js",
+    "precache-manifest.4399ea600f9ffa942a8d8d88b9e1e744.js": "/dsearch-console/precache-manifest.4399ea600f9ffa942a8d8d88b9e1e744.js",
     "service-worker.js": "/dsearch-console/service-worker.js",
     "static/css/30.9905d55a.chunk.css.map": "/dsearch-console/static/css/30.9905d55a.chunk.css.map",
     "static/css/main.68d695bd.chunk.css.map": "/dsearch-console/static/css/main.68d695bd.chunk.css.map",
@@ -180,6 +180,6 @@
     "static/js/runtime-main.ac596135.js",
     "static/js/10.91ca38d8.chunk.js",
     "static/css/main.68d695bd.chunk.css",
-    "static/js/main.cf38cc56.chunk.js"
+    "static/js/main.275e731a.chunk.js"
   ]
 }
